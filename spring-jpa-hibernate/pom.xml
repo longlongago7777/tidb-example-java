@@ -6,6 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.0-M1</version>
+		<!--modifiy to 3.0.0-M3 if you are using mac eg. mac monterey 12.5.1, or you would fail to get io.micrometer:micrometer-bom:pom:2.0.0-M1 -->
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
